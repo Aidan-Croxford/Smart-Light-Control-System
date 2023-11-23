@@ -1,0 +1,4 @@
+../Core/Src/TrackPad.c:26:6:writeByte	32	static
+../Core/Src/TrackPad.c:34:6:readByte	32	static
+../Core/Src/TrackPad.c:47:6:getProductNum	24	static
+../Core/Src/TrackPad.c:74:6:writeMM	40	static

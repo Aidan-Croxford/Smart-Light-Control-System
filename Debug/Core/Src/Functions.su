@@ -1,0 +1,12 @@
+../Core/Src/Functions.c:86:6:TrackPadInput	144	static
+../Core/Src/Functions.c:245:6:TrackPadSetup	16	static
+../Core/Src/Functions.c:333:6:test	16	static
+../Core/Src/Functions.c:348:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/Functions.c:362:6:UART_Command	16	static
+../Core/Src/Functions.c:506:6:SystemRefresh	8	static
+../Core/Src/Functions.c:553:6:DecodeMorse	16	static
+../Core/Src/Functions.c:570:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/Functions.c:600:6:ExecuteMorse	24	static
+../Core/Src/Functions.c:649:6:Setup	8	static
+../Core/Src/Functions.c:671:6:Slider_Update	8	static
+../Core/Src/Functions.c:704:6:debugLEDs	8	static
